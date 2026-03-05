@@ -33,4 +33,3 @@ The dashboard helps analyze:
 ## Screenshots / Demo
 [Demo](https://github.com/mruga05/Coffee-Shop-Sales/blob/main/Coffee_Shop_Sales.png)
 
-https://github.com/mruga05/Coffee-Shop-Sales/blob/main/Coffee_Shop_Sales.png
